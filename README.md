@@ -10,7 +10,7 @@ GitHub Action that searches the repository information informed through an `inpu
 
 | Input        | Info                                                                                    |
 | ------------ | --------------------------------------------------------------------------------------- |
-| `repository` | Enter the name of the repository you want to search. ("jhonywalkeer" is set by default) |
+| `repository` | Enter the name of the repository you want to search. ("jhonywalkeer/jhonywalkeer" is set by default) |
 
 ## 🧪 Example of use
 
